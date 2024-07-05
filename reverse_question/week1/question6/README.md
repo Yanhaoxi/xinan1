@@ -2,7 +2,7 @@
 enabled: true
 name: flag 生成器
 category: 一级 Reverse
-url: http://ctf.nbs.jonbgua.com:32117/ezre?token={token}
+url: 
 index: 210
 flags:
 - name:

@@ -2,7 +2,7 @@
 enabled: true
 name: 简单计算器
 category: 一级 Reverse
-url: http://ctf.nbs.jonbgua.com:32117/ezre?token={token}
+url:
 index: 210
 flags:
 - name:
